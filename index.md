@@ -66,4 +66,4 @@ If you violate the letter or spirit of these Terms of Use, or otherwise create r
 
 ### CHANGES TO OUR TERMS OF SERVICES
 
-Shey may modify or update the ToS and the link to the ToS from time to time, so please review and search for it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of Shey or the Service after any modification to this Privacy Policy will constitute your acceptance of such modification.
+Shey may modify or update the ToS and the link to the ToS from time to time, so please review and search for it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of Shey or the Service after any modification to this ToS will constitute your acceptance of such modification.
