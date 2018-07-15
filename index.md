@@ -2,7 +2,7 @@
 
 Effective date: July 15, 2018
 
-Welcome to Shey ("Shey," "we," "us" or "our"). When you are registering an account, you aknowledge and accept our Terms-of-Services (ToS) and [Privacy Policy](https://github.com/fosini/Shey-Privacy)
+Welcome to Shey ("Shey," "we," "us" or "our"). When you are registering an account and/or using our services, you aknowledge and accept our Terms-of-Services (ToS) and [Privacy Policy](https://github.com/fosini/Shey-Privacy)
 
 If you violate the letter or spirit of these Terms of Use, or otherwise create risk or possible legal exposure for Shey, we can stop providing all or part of the Service to you.
 
@@ -37,7 +37,7 @@ If you violate the letter or spirit of these Terms of Use, or otherwise create r
 
 14. You must comply with Shey's Community Guidelines.
 
-15.You must not create accounts with the Service through unauthorized means, including but not limited to, by using an automated device, script, bot, spider, crawler or scraper.
+15. You must not create accounts with the Service through unauthorized means, including but not limited to, by using an automated device, script, bot, spider, crawler or scraper.
 
 16. We have the right to close and delete any account at any given time without explicitly stating a reason.
 
